@@ -84,12 +84,12 @@ This project includes:
 ---
 
 ## 📁 Repository Structure
-project_files:
-  - main.py
-  - subgraph_5000.gexf
-  - nodes_metrics.csv
-  - README.md
-
+```bash .
+├── main.py
+├── subgraph_5000.gexf
+├── nodes_metrics.csv
+├── README.md
+```
 
 ---
 
